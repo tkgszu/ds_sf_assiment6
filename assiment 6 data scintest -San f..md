@@ -98,7 +98,7 @@ saturday_hours_counts.sort_index().plot(kind='bar',title ='Saturday')
 ![png](output_11_1.png)
 
 
-OK! the numbers a bit low to be sure but it seems that the picks are when pepole on the way on the street- going to eat or drink or go home.. (we can see that on Saturday, when pepole go out late the hours with more crimes are at night)
+OK, the numbers a bit low to be sure, and it is not very obius but maybe the picks are when pepole on the way on the street- going to eat or drink or go home.. (we can see that on Saturday, when pepole go out late the hours with more crimes are at night)
 So crimes happend when pepole out on the streets.
 
 ### Crime Label
